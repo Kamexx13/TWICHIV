@@ -1,0 +1,270 @@
+<html>
+<head>
+<title>Twichiv</title>
+<link href="twitchiv.css" rel="stylesheet" type="text/css">
+<meta charset="UTF-8">
+<meta charset="utf-8">
+<link rel="icon" href="logo twitch.png" type="image/x-icon">
+
+<style type="text/css">
+</style>
+</head>
+<body>
+<link href="twichiv.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+	<div id="tudo">
+   <div id="logo"><nav>
+   <img src="logo twitch.png" style="width:4.2%">
+     <p><B> TWICHIV<B></p>
+	 <ul>
+	  <li> <a href="twitchiv.html"> Home </a> </li>
+	  <li> <a href="#"> Lives</a> 
+	  <ul>
+	  <li> <a href="https://www.twitch.tv/gaules">Gaules</a></li>
+	  <li> <a href="https://www.twitch.tv/loud_coringa">Loud Coringa</a></li>
+	  <li> <a href="https://www.twitch.tv/alanzoka"> Alanzoka</a></li>
+	  <li> <a href="https://www.twitch.tv/YoDa">Yoda</a></li>
+	  <li> <a href="https://www.twitch.tv/casimito">Casimiro</a></li>
+	  <li> <a href="https://www.twitch.tv/Cellbit"> Cellbit</a></li>
+	  <li> <a href="https://www.twitch.tv/Baiano">Baiano</a></li>
+	  <li> <a href="https://www.twitch.tv/Mount">Mount</a></li>
+	  <li> <a href="https://www.twitch.tv/Nobru"> Nobru</a></li>
+	  <li> <a href="https://www.twitch.tv/blxckoutz"> Blackoutz</a></li>
+	  </ul>
+	  </li>
+	  <li><a href="#">Jogos</a>
+	  <ul>
+	  <li> <a href="https://www.leagueoflegends.com/pt-br/">League Of Legends</a></li>
+	  <li> <a href="https://playvalorant.com/pt-br/?gclid=EAIaIQobChMIjb2piYO6-AIVReRcCh09_wCoEAAYASAAEgKzkPD_BwE&gclsrc=aw.ds">Valorant</a></li>
+	  	  <li> <a href="https://www.rockstargames.com/br/gta-v">Gta 5</a></li>
+	  <li> <a href="https://www.epicgames.com/fortnite/pt-BR/home">Fortnite</a></li>
+	  	  <li> <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">CS:GO</a></li>
+	  <li> <a href="https://www.minecraft.net/pt-br">Minecraft</a></li>
+	  	  <li> <a href="https://www.ea.com/pt-br/games/apex-legends">Apex</a></li>
+	  <li> <a href="https://deadbydaylight.com">Dead By Daylight</a></li>
+	  	  <li> <a href="https://www.dota2.com/home">Dota 2</a></li>
+	  <li> <a href="https://www.callofduty.com/br/pt/warzone">Call of Duty Warzone</a></li>
+	  </ul>
+	  </li>
+	  
+	  
+	  <ul>
+	  <li><a href="#contato">Contato</a> </li>
+	  </ul>
+   </nav>
+</div>
+</div>
+
+<center><form name="meu_form">
+<h1><font color="#FFFFFF">TWICHIV</font></h1>
+<h2><font color="#FFFFFF">A Twichiv é uma plataforma que calcula os streamers e os jogos mais assistidos da plataforma Twitch, mas afinal o que é Twitch?</font></h2><br>
+<br>
+<p>
+<font color="#FFFFFF"><a href="https://www.twitch.tv/">Twitch</a> é um serviço de streaming de vídeo ao vivo que se concentra em streaming ao vivo de videogame, incluindo transmissões de competições de esportes eletrônicos. Além disso, oferece transmissões de música, conteúdo criativo e mais recentemente, streams "na vida real". É operado pela Twitch Interactive, uma subsidiária da Amazon.com. Foi introduzido em junho de 2011 como um spin-off da plataforma de streaming de interesse geral Justin.tv. O conteúdo do site pode ser visualizado ao vivo ou por vídeo sob demanda.</font>
+		</p><br>
+<a href="https://www.twitch.tv/">
+		<center> <img src="logo twitch.png"> </center>
+		</a> <br>
+<p>
+<font color="#FFFFFF">Bom agora que sabemos o que é a twitch, vamos descobrir quem são os streamers brasileiros mais assistidos da plataforma.
+</p><br>
+<br>
+<br>
+<h2><font color="#FFFFFF">1º Gaules</h2>
+<p><font color="#FFFFFF">Com 165 mil horas assistidas e 8 mil e 600 horas no ar, o streamer Gaules é o streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Gaules">
+		<center> <img src="gaules.jpg" style="width:40%"> </center>
+		</a> <br>
+<h2><font color="#FFFFFF">2º Loud Coringa</h2>
+<p><font color="#FFFFFF">Com 100 mil horas assistidas e 1 mil e 590 horas no ar, o streamer Coringa é o segundo streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/loud_coringa">
+		<center> <img src="coringa.jpg" style="width:40%"> </center>
+		</a> <br>
+<h2><font color="#FFFFFF">3º Alanzoka</h2>
+<p><font color="#FFFFFF">Com 37 mil horas assistidas e 1 mil e 699 horas no ar, o streamer Alanzoka é o terceiro streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Alanzoka">
+		<center> <img src="alanzoka.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">4º Yoda</h2>
+<p><font color="#FFFFFF">Com 35 mil horas assistidas e 2 mil e 300 horas no ar, o streamer Yoda é o quarto streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/YoDa">
+		<center> <img src="Yoda.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">5º Casimiro</h2>
+<p><font color="#FFFFFF">Com 31 mil horas assistidas e 1 mil e 850 horas no ar, o streamer Casimiro é o quinto streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Casimito">
+		<center> <img src="Casimiro.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">6º Cellbit</h2>
+<p><font color="#FFFFFF">Com 22 mil horas assistidas e 1 mil e 190 horas no ar, o streamer Cellbit é o sexto streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Cellbit">
+		<center> <img src="Cellbit.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">7º Baiano</h2>
+<p><font color="#FFFFFF">Com 21 mil horas assistidas e 1 mil e 290 horas no ar, o streamer Baiano é o sétimo streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Baiano">
+		<center> <img src="Baiano.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">8º Mount</h2>
+<p><font color="#FFFFFF">Com 19 mil horas assistidas e 3 mil e 340 horas no ar, o streamer Mount é o oitavo streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Mount">
+		<center> <img src="Mount.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">9º Nobru</h2>
+<p><font color="#FFFFFF">Com 17 mil horas assistidas e 1 mil e 350 horas no ar, o streamer Nobru é o nono streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/Nobru">
+		<center> <img src="Nobru.jpg" style="width:40%"> </center>
+		</a> <br>
+		<h2><font color="#FFFFFF">10º Blackoutz</h2>
+<p><font color="#FFFFFF">Com 14 mil horas assistidas e 8 mil e 640 horas no ar, o streamer Blackoutz é o décimo streamer mais assistido do Brasil.</p><br>
+<a href="https://www.twitch.tv/blxckoutz">
+		<center> <img src="Blackoutz.jpg" style="width:40%"> </center>
+		</a> <br>
+		
+		<div id="tabela">
+		<h1><font color="#FFFFFF">Tabela dos números</font></h1>
+		
+	
+<table border="1">
+  <tr><td>Streamer</td><td>Horas Assistidas</td><td>Horas no ar</td></tr>
+  <tr><td>Gaules</td><td>165.396.505</td><td>8.601h</td></tr>
+  <tr><td>Loud Coringa</td><td>100.157.059</td><td>1.597h</td></tr>
+  <tr><td>Alanzoka</td><td>37.120.979</td><td>1.699h</td></tr>
+  <tr><td>YoDa</td><td>35.033.536</td><td>2.334h</td></tr>
+  <tr><td>Casimito</td><td>31.075.365</td><td>1.853h</td></tr>
+  <tr><td>Cellbit</td><td>22.245.712</td><td>1.190h</td></tr>
+  <tr><td>Baiano</td><td>21.053.423</td><td>1.294h</td></tr>
+  <tr><td>Mount</td><td>19.386.263</td><td>3.340h</td></tr>
+  <tr><td>Nobru</td><td>17.234.447</td><td>1.352h</td></tr>
+  <tr><td>Blackoutz</td><td>14.084.417</td><td>8.647h</td></tr>   
+</table><br>
+</div>
+		<p>
+<font color="#FFFFFF">Bom agora que sabemos quem são os streamers mais assistidos, vamos descobrir quais são os jogos mais assistidos da plataforma.
+</p><br>
+		
+
+
+
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 10</div>
+    <img src="Lol.jpg" style="width:100%">
+    <div class="text"><h1>1º League Of Legends<h1></div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 10</div>
+    <img src="Valorant.jpg" style="width:100%">
+    <div class="text"><h1>2º Valorant<h1></div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 10</div>
+    <img src="Gta5.jpg" style="width:100%">
+    <div class="text"><h1>3º Gta 5<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 10</div>
+    <img src="Fortnite.jpg" style="width:100%">
+    <div class="text"><h1>4º Fortnite<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 10</div>
+    <img src="csgo.jpg" style="width:100%">
+    <div class="text"><h1>5º Counter Strike Global Offensive<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 10</div>
+    <img src="minecraft.jpg" style="width:100%">
+    <div class="text"><h1>6º Minecraft<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 10</div>
+    <img src="apex.jpg" style="width:100%">
+    <div class="text"><h1>7º Apex Legends<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 10</div>
+    <img src="dbd.jpg" style="width:100%">
+    <div class="text"><h1>8º Dead by Daylight<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">9 / 10</div>
+    <img src="dota.jpg" style="width:100%">
+    <div class="text"><h1>9º Dota 2<h1></div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="cod.jpg" style="width:100%">
+    <div class="text"><h1>10º Call of Duty: Warzone<h1></div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+   <span class="dot" onclick="currentSlide(4)"></span>
+   <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+   <span class="dot" onclick="currentSlide(8)"></span>
+   <span class="dot" onclick="currentSlide(9)"></span>
+   <span class="dot" onclick="currentSlide(10)"></span>
+</div>
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<main><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	  <section id="contato"><h1>Contatos</h1></section>
+	  </main><br><br><br>
+<p>Encontrou algum erro nas nossas informações?</p><br>
+ <p>Por favor nos contate em nosso <a href="https://www.instagram.com/twichiv_/">Instagram</a>, ou em nosso número de whatsapp +55 11 98914-1087.</p>
+<p>Agradecemos a compreensão, e contamos com o seu apoio para continuarmos trazendo informações precisas sobre a plataforma twitch!</p><br><br><br> 
+
+</form></center>
+
+</body>
+</html> 

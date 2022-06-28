@@ -1,0 +1,50 @@
+#outerbox
+{
+	width:512;
+	overflow:hidden;
+}
+#sliderbox
+{
+	position:relative;
+	width:1536px;
+	animation-name:neel;
+	animation-duration:10s;
+	animation-iteration-count:infinite;
+}
+#sliderbox img
+{
+float:left;
+}
+@keyframes neel{
+	
+	0%
+	{
+		left:0px;
+	}
+	26%
+	{
+		left:0px;
+	}	
+    33%
+	   
+	{
+        left:-512px;
+	}	
+	43%
+	   
+	{
+        left:-512px;
+	}
+    66%
+	{
+        left:-1024px;
+    }
+    93%
+    {
+        left:-1024px;
+    }
+    100%
+    {
+       left:-1536;
+    }
+}	
